@@ -10,3 +10,9 @@ cd kv260_swan
 ```bash
 scp -r kv260_swan root@192.168.1.100:/home/root
 ```
+kv260上で以下を実行する。  
+```bash
+cp -r model /home/root
+cp -r swan /lib/firmware/xilinx
+cp kv260_swan /home/root
+```
