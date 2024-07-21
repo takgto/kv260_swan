@@ -29,7 +29,7 @@ swanを含む３つの環境があり、Active slotは、kv260-banchmark-b4096�
 xmutil unloadapp
 ```
 ![image](https://github.com/user-attachments/assets/76db36d4-7f3e-4447-ac93-a4d874b6e2d4)
-Active slotが全て-1になっていることを確認する。
+Active slotが全て-1になっていることを確認する。  
 </br>
 swanの環境のみをActive slotにしてリストを取る。  
 ```bash
@@ -39,6 +39,15 @@ xmutil listapps
 ![image](https://github.com/user-attachments/assets/09fb3e81-8ab3-41e5-8c21-974ba1ff3df8)  
 swanのみがActive slot 0になっていることを確認する。
 </br>
+/home/root/kv260_swanの下で次のコマンドを実行すると言語モデルが実行される。  
+```bash
+./kv260_swan
+```
+![image](https://github.com/user-attachments/assets/a36a495e-c54f-4c39-a6f7-74c065f43f1e)  
+コマンドを実行する度に物語が変わる。  
+
+
+
 
 
 
