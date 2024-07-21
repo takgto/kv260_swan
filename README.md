@@ -1,7 +1,8 @@
 # kv260_swan
 swan files working on kv260.
 ## swanで小規模LLMを動かすプロブラム ##   
-"言語モデルを高位合成でFPGAに実装してみた"（https://zenn.dev/turing_motors/articles/82505880d27d65）を参考にしてプログラムを作成しています。  
+[言語モデルを高位合成でFPGAに実装してみた](https://zenn.dev/turing_motors/articles/82505880d27d65)  
+を参考にしてプログラムを作成しています。  
 WSL2で適当なディレクトリにおいて、https://github.com/takgto/kv260_swan をgit cloneする。
 ```bash
 git clone https://github.com/takgto/kv260_swan
