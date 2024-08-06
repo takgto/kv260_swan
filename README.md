@@ -1,4 +1,5 @@
 # kv260_swan
+ハッカソンで試す場合は[こちら](https://github.com/takgto/utokyo-chipathon2023/wiki/%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92FPGA%E4%B8%8A%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%95%E3%81%9B%E3%82%8B)を参照してください。  
 swan files working on kv260.
 ## swanで小規模LLMを動かすプロブラム ##   
 [言語モデルを高位合成でFPGAに実装してみた](https://zenn.dev/turing_motors/articles/82505880d27d65)  
